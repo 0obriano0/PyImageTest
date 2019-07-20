@@ -31,4 +31,4 @@ def remove_(file,data):
             
     test_gray_level.save(file)
     
-remove_('./GTA5_Gray_level_remove_1.jpg',0b11111110)
+remove_('./GTA5_Gray_level_remove_0b11111110.jpg',0b11111110)
